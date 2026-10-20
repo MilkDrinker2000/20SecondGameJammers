@@ -1,0 +1,37 @@
+{
+  "$GMProject":"v1",
+  "%Name":"game",
+  "AudioGroups":[
+    {"$GMAudioGroup":"v1","%Name":"audiogroup_default","exportDir":"","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+  "configs":{
+    "children":[],
+    "name":"Default",
+  },
+  "defaultScriptType":0,
+  "Folders":[],
+  "ForcedPrefabProjectReferences":[],
+  "IncludedFiles":[],
+  "isEcma":false,
+  "LibraryEmitters":[],
+  "MetaData":{
+    "IDEVersion":"2026.0.0.16",
+  },
+  "name":"game",
+  "resources":[
+    {"id":{"name":"game_play","path":"rooms/game_play/game_play.yy",},},
+    {"id":{"name":"intro_cutscene","path":"rooms/intro_cutscene/intro_cutscene.yy",},},
+    {"id":{"name":"main_menu","path":"rooms/main_menu/main_menu.yy",},},
+  ],
+  "resourceType":"GMProject",
+  "resourceVersion":"2.0",
+  "RoomOrderNodes":[
+    {"roomId":{"name":"intro_cutscene","path":"rooms/intro_cutscene/intro_cutscene.yy",},},
+    {"roomId":{"name":"main_menu","path":"rooms/main_menu/main_menu.yy",},},
+    {"roomId":{"name":"game_play","path":"rooms/game_play/game_play.yy",},},
+  ],
+  "templateType":"game",
+  "TextureGroups":[
+    {"$GMTextureGroup":"","%Name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","customOptions":"","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"name":"Default","resourceType":"GMTextureGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+}

@@ -1,0 +1,7 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"game_play","order":2,"path":"rooms/game_play/game_play.yy",},
+    {"name":"main_menu","order":1,"path":"rooms/main_menu/main_menu.yy",},
+  ],
+}
