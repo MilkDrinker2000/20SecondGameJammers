@@ -1,7 +1,10 @@
 {
   "FolderOrderSettings":[],
   "ResourceOrderSettings":[
+    {"name":"Finger","order":3,"path":"objects/Finger/Finger.yy",},
+    {"name":"MoveToNextRoom","order":5,"path":"objects/MoveToNextRoom/MoveToNextRoom.yy",},
     {"name":"game_play","order":2,"path":"rooms/game_play/game_play.yy",},
     {"name":"main_menu","order":1,"path":"rooms/main_menu/main_menu.yy",},
+    {"name":"Sprite1","order":4,"path":"sprites/Sprite1/Sprite1.yy",},
   ],
 }

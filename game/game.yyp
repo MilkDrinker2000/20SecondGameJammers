@@ -15,13 +15,16 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2026.0.0.16",
+    "IDEVersion":"2024.14.4.222",
   },
   "name":"game",
   "resources":[
+    {"id":{"name":"Finger","path":"objects/Finger/Finger.yy",},},
+    {"id":{"name":"MoveToNextRoom","path":"objects/MoveToNextRoom/MoveToNextRoom.yy",},},
     {"id":{"name":"game_play","path":"rooms/game_play/game_play.yy",},},
     {"id":{"name":"intro_cutscene","path":"rooms/intro_cutscene/intro_cutscene.yy",},},
     {"id":{"name":"main_menu","path":"rooms/main_menu/main_menu.yy",},},
+    {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
