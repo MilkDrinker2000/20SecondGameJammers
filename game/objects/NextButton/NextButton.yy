@@ -1,15 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"MoveToNextRoom",
+  "%Name":"NextButton",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":32,"eventType":9,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":7,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"MoveToNextRoom",
+  "name":"NextButton",
   "overriddenProperties":[],
   "parent":{
-    "name":"game",
-    "path":"game.yyp",
+    "name":"buttons",
+    "path":"folders/buttons.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -29,7 +29,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"NextButtonSprite",
+    "path":"sprites/NextButtonSprite/NextButtonSprite.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
