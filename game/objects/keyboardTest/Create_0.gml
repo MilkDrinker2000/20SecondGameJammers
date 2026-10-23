@@ -1,0 +1,2 @@
+selected_key = ""; 
+text = "";
