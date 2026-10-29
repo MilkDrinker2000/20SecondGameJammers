@@ -10,8 +10,8 @@
   },
   "defaultScriptType":1,
   "Folders":[
-    {"$GMFolder":"","%Name":"buttons","folderPath":"folders/objects/buttons.yy","name":"buttons","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"objects","folderPath":"folders/objects.yy","name":"objects","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"buttons","folderPath":"folders/objects/buttons.yy","name":"buttons","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"rooms","folderPath":"folders/rooms.yy","name":"rooms","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"sprites","folderPath":"folders/sprites.yy","name":"sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
@@ -40,6 +40,7 @@
     {"id":{"name":"BackButtonSprite","path":"sprites/BackButtonSprite/BackButtonSprite.yy",},},
     {"id":{"name":"FingerSprite","path":"sprites/FingerSprite/FingerSprite.yy",},},
     {"id":{"name":"NextButtonSprite","path":"sprites/NextButtonSprite/NextButtonSprite.yy",},},
+    {"id":{"name":"PhoneKeyboard","path":"sprites/PhoneKeyboard/PhoneKeyboard.yy",},},
     {"id":{"name":"PlayButtonSprite","path":"sprites/PlayButtonSprite/PlayButtonSprite.yy",},},
     {"id":{"name":"RestartButtonSprite","path":"sprites/RestartButtonSprite/RestartButtonSprite.yy",},},
     {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},},
