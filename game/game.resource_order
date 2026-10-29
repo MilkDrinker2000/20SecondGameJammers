@@ -1,7 +1,7 @@
 {
   "FolderOrderSettings":[
-    {"name":"buttons","order":1,"path":"folders/objects/buttons.yy",},
     {"name":"objects","order":9,"path":"folders/objects.yy",},
+    {"name":"buttons","order":1,"path":"folders/objects/buttons.yy",},
     {"name":"rooms","order":2,"path":"folders/rooms.yy",},
     {"name":"sprites","order":4,"path":"folders/sprites.yy",},
   ],
@@ -16,6 +16,7 @@
     {"name":"end_screen","order":3,"path":"rooms/end_screen/end_screen.yy",},
     {"name":"intro_cutscene","order":1,"path":"rooms/intro_cutscene/intro_cutscene.yy",},
     {"name":"main_menu","order":2,"path":"rooms/main_menu/main_menu.yy",},
+    {"name":"Functions","order":10,"path":"scripts/Functions/Functions.yy",},
     {"name":"BackButtonSprite","order":3,"path":"sprites/BackButtonSprite/BackButtonSprite.yy",},
     {"name":"NextButtonSprite","order":2,"path":"sprites/NextButtonSprite/NextButtonSprite.yy",},
     {"name":"PlayButtonSprite","order":1,"path":"sprites/PlayButtonSprite/PlayButtonSprite.yy",},

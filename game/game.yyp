@@ -10,8 +10,8 @@
   },
   "defaultScriptType":1,
   "Folders":[
-    {"$GMFolder":"","%Name":"buttons","folderPath":"folders/objects/buttons.yy","name":"buttons","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"objects","folderPath":"folders/objects.yy","name":"objects","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"buttons","folderPath":"folders/objects/buttons.yy","name":"buttons","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"rooms","folderPath":"folders/rooms.yy","name":"rooms","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"sprites","folderPath":"folders/sprites.yy","name":"sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
@@ -37,6 +37,7 @@
     {"id":{"name":"game_play","path":"rooms/game_play/game_play.yy",},},
     {"id":{"name":"intro_cutscene","path":"rooms/intro_cutscene/intro_cutscene.yy",},},
     {"id":{"name":"main_menu","path":"rooms/main_menu/main_menu.yy",},},
+    {"id":{"name":"Functions","path":"scripts/Functions/Functions.yy",},},
     {"id":{"name":"BackButtonSprite","path":"sprites/BackButtonSprite/BackButtonSprite.yy",},},
     {"id":{"name":"FingerSprite","path":"sprites/FingerSprite/FingerSprite.yy",},},
     {"id":{"name":"NextButtonSprite","path":"sprites/NextButtonSprite/NextButtonSprite.yy",},},

@@ -1,4 +1,1 @@
-if (room_exists(room_next(room)))
-{
-    room_goto_next();
-}
+go_to_next_room()
