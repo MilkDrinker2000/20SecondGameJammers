@@ -5,14 +5,20 @@ y = mouse_y;
 if (wobble_time > 0) {
     wobble_time--;
 
-    var progress = 1 - (wobble_time / wobble_duration);
-    var decay = power(wobble_time / wobble_duration, 1.5);
+    wobble_true += wobble_gain;
+	
+    var decay = power(clamp(wobble_time / wobble_duration,0,1), 0.5);
 
-    x += sin(progress * 12) * wobble_strength_x * decay;
-    y += cos(progress * 5) * wobble_strength_y * decay;
+    x += sin(wobble_true * 2) * wobble_strength_x * decay;
+    y += cos(wobble_true) * wobble_strength_y * decay;
 }
 
 if (wobble_strength_x > 50) {
 	
-	wobble_strength_x -= 10;
+	wobble_strength_x = max(50, wobble_strength_x - 0.5);
+}
+
+if (wobble_strength_y > 30) {
+	
+	wobble_strength_y = max(30, wobble_strength_y - 0.5);
 }
