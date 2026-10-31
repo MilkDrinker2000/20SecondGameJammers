@@ -1,27 +1,23 @@
-x = mouse_x;
-y = mouse_y;
-
-// the wobble cooldown is active so count it down
-if (wobble_cooldown > 0)
+//wobble strength has to be more than .1
+//This can't be zero because of the new approach I took, using a decay function
+if (wobble_strength > 0.1)
 {
-	wobble_cooldown--;
+    // Advance the wobble cycle
+    wobble_angle += wobble_speed;
+
+    // Follow the mouse while wobbling
+    x = mouse_x + sin(wobble_angle) * wobble_strength;
+    y = mouse_y + cos(wobble_angle * 0.8) * wobble_strength * 0.5;
+
+    // Slowly decrease the wobble
+    wobble_strength *= wobble_decay;
 }
-// the wobble has cooled down so reset the wobble strength
 else
 {
-	wobble_strength_x = wobble_strength_x_init;
-	wobble_strength_y = wobble_strength_y_init;
-}
+    //This is just a placeholder, might not be neccessary. 
+    wobble_strength = 0;
 
-// counts down the wobble_time and applies the wobble
-if (wobble_time > 0)
-{
-	wobble_time--;
-	
-	var progress = 1 - (wobble_time / wobble_full_duration);
-	var decay = power(wobble_time / wobble_full_duration, 1.5);
-	
-	x += sin(progress * 12) * wobble_strength_x * decay;
-	y += cos(progress * 5) * wobble_strength_y * decay;
+    // Follow the mouse
+    x = mouse_x;
+    y = mouse_y;
 }
-
