@@ -20,12 +20,13 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2026.0.0.16",
+    "IDEVersion":"2024.14.4.222",
   },
   "name":"game",
   "resources":[
     {"id":{"name":"testFont","path":"fonts/testFont/testFont.yy",},},
     {"id":{"name":"BackButton","path":"objects/BackButton/BackButton.yy",},},
+    {"id":{"name":"fadeToBlack","path":"objects/fadeToBlack/fadeToBlack.yy",},},
     {"id":{"name":"Finger","path":"objects/Finger/Finger.yy",},},
     {"id":{"name":"GameTimeLimiter","path":"objects/GameTimeLimiter/GameTimeLimiter.yy",},},
     {"id":{"name":"keyboardTest","path":"objects/keyboardTest/keyboardTest.yy",},},

@@ -8,6 +8,7 @@
   "ResourceOrderSettings":[
     {"name":"testFont","order":7,"path":"fonts/testFont/testFont.yy",},
     {"name":"BackButton","order":1,"path":"objects/BackButton/BackButton.yy",},
+    {"name":"fadeToBlack","order":3,"path":"objects/fadeToBlack/fadeToBlack.yy",},
     {"name":"GameTimeLimiter","order":2,"path":"objects/GameTimeLimiter/GameTimeLimiter.yy",},
     {"name":"keyboardTest","order":5,"path":"objects/keyboardTest/keyboardTest.yy",},
     {"name":"NextButton","order":2,"path":"objects/NextButton/NextButton.yy",},
