@@ -2,8 +2,12 @@
 drift_angle = random(360);
 
 //The drifting speed
-drift_speed = 1;
+drift_speed = 2;
 
 //The variables that store the drift direction
 drift_x = 0;
 drift_y = 0;
+
+//This hides the cursor
+window_set_cursor(cr_none);
+
