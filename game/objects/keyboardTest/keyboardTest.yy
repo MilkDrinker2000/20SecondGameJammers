@@ -10,8 +10,8 @@
   "name":"keyboardTest",
   "overriddenProperties":[],
   "parent":{
-    "name":"game",
-    "path":"game.yyp",
+    "name":"objects",
+    "path":"folders/objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
