@@ -38,6 +38,7 @@
     {"name":"inst_1F5B2C93","path":"rooms/game_play/game_play.yy",},
     {"name":"inst_2C7E125F","path":"rooms/game_play/game_play.yy",},
     {"name":"inst_333A9175","path":"rooms/game_play/game_play.yy",},
+    {"name":"inst_7198EB09","path":"rooms/game_play/game_play.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -128,6 +129,7 @@
         {"$GMRInstance":"v4","%Name":"inst_333A9175","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_333A9175","objectId":{"name":"keyTest","path":"objects/keyTest/keyTest.yy",},"properties":[
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"keyTest","path":"objects/keyTest/keyTest.yy",},"propertyId":{"name":"this_key","path":"objects/keyTest/keyTest.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"x",},
           ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":504.0,"y":299.0,},
+        {"$GMRInstance":"v4","%Name":"inst_7198EB09","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_7198EB09","objectId":{"name":"fadeToBlack","path":"objects/fadeToBlack/fadeToBlack.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":0.0,"y":-32.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":15.0,"animationSpeedType":0,"colour":4278255615,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
