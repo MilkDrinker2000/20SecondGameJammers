@@ -41,6 +41,7 @@
     {"id":{"name":"FingerSprite","path":"sprites/FingerSprite/FingerSprite.yy",},},
     {"id":{"name":"NextButtonSprite","path":"sprites/NextButtonSprite/NextButtonSprite.yy",},},
     {"id":{"name":"PhoneKeyboard","path":"sprites/PhoneKeyboard/PhoneKeyboard.yy",},},
+    {"id":{"name":"PhoneKeyboardFinal","path":"sprites/PhoneKeyboardFinal/PhoneKeyboardFinal.yy",},},
     {"id":{"name":"PlayButtonSprite","path":"sprites/PlayButtonSprite/PlayButtonSprite.yy",},},
     {"id":{"name":"RestartButtonSprite","path":"sprites/RestartButtonSprite/RestartButtonSprite.yy",},},
     {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},},
