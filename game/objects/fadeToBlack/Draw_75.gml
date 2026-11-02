@@ -31,7 +31,7 @@ var far_radius = max_radius * 3;
 if (progress >= 1)
 {
     draw_set_color(c_black);
-    draw_set_alpha(1);
+    draw_set_alpha(0.90);
     draw_rectangle(0, 0, w, h, false);
     draw_set_color(c_white);
     exit;
@@ -58,7 +58,7 @@ for (var i = 0; i <= circle_segments; i++)
     draw_vertex_colour(
         cx + dx * outer_radius,
         cy + dy * outer_radius,
-        c_black, 1
+        c_black, 0.9
     );
 }
 
@@ -77,13 +77,13 @@ for (var i = 0; i <= circle_segments; i++)
     draw_vertex_colour(
         cx + dx * outer_radius,
         cy + dy * outer_radius,
-        c_black, 1
+        c_black, 0.9
     );
 
     draw_vertex_colour(
         cx + dx * far_radius,
         cy + dy * far_radius,
-        c_black, 1
+        c_black, 0.9
     );
 }
 
