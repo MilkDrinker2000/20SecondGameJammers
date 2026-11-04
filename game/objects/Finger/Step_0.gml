@@ -6,8 +6,8 @@ if (wobble_strength > 0.1)
     wobble_angle += wobble_speed;
 
     // Follow the mouse while wobbling
-    x = mouse_x + sin(wobble_angle) * wobble_strength;
-    y = mouse_y + cos(wobble_angle * 0.8) * wobble_strength * 0.5;
+    x = mouse_x + sin(wobble_angle) * wobble_strength * 0.5;
+    y = mouse_y + cos(wobble_angle * 0.4) * wobble_strength * 0.2;
 
     // Slowly decrease the wobble
     wobble_strength *= wobble_decay;
