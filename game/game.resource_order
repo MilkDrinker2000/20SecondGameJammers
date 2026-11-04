@@ -23,6 +23,7 @@
     {"name":"main_menu","order":2,"path":"rooms/main_menu/main_menu.yy",},
     {"name":"Functions","order":10,"path":"scripts/Functions/Functions.yy",},
     {"name":"BackButtonSprite","order":3,"path":"sprites/BackButtonSprite/BackButtonSprite.yy",},
+    {"name":"FingerCursor","order":5,"path":"sprites/FingerCursor/FingerCursor.yy",},
     {"name":"NextButtonSprite","order":2,"path":"sprites/NextButtonSprite/NextButtonSprite.yy",},
     {"name":"phone_key","order":7,"path":"sprites/phone_key/phone_key.yy",},
     {"name":"PhoneKeyboard","order":5,"path":"sprites/PhoneKeyboard/PhoneKeyboard.yy",},
