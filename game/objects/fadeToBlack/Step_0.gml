@@ -9,5 +9,3 @@ if (fade_active)
         fade_duration
     );
 }
-
-if (!fade_active) exit;
