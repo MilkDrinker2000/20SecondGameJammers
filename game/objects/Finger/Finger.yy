@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"FingerSprite",
-    "path":"sprites/FingerSprite/FingerSprite.yy",
+    "name":"FingerCursor",
+    "path":"sprites/FingerCursor/FingerCursor.yy",
   },
   "spriteMaskId":null,
   "visible":true,
