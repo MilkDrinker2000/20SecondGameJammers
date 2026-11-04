@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"PhoneKeyboard",
-    "path":"sprites/PhoneKeyboard/PhoneKeyboard.yy",
+    "name":"PhoneKeyboardFinal",
+    "path":"sprites/PhoneKeyboardFinal/PhoneKeyboardFinal.yy",
   },
   "spriteMaskId":null,
   "visible":true,
