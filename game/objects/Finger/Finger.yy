@@ -10,8 +10,8 @@
   "name":"Finger",
   "overriddenProperties":[],
   "parent":{
-    "name":"game",
-    "path":"game.yyp",
+    "name":"objects",
+    "path":"folders/objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"FingerSprite",
-    "path":"sprites/FingerSprite/FingerSprite.yy",
+    "name":"FingerCursor",
+    "path":"sprites/FingerCursor/FingerCursor.yy",
   },
   "spriteMaskId":null,
   "visible":true,
