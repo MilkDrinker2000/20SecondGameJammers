@@ -47,7 +47,7 @@ for (var i = 0; i <= circle_segments; i++)
     var angle = (i / circle_segments) * pi * 2;
 
     var dx = cos(angle);
-    var dy = sin(angle);
+    var dy = sin(angle) * 0.65;
 
     draw_vertex_colour(
         cx + dx * inner_radius,
@@ -72,7 +72,7 @@ for (var i = 0; i <= circle_segments; i++)
     var angle = (i / circle_segments) * pi * 2;
 
     var dx = cos(angle);
-    var dy = sin(angle);
+    var dy = sin(angle) * 0.65;
 
     draw_vertex_colour(
         cx + dx * outer_radius,
