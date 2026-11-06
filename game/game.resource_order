@@ -22,6 +22,7 @@
     {"name":"intro_cutscene","order":1,"path":"rooms/intro_cutscene/intro_cutscene.yy",},
     {"name":"main_menu","order":2,"path":"rooms/main_menu/main_menu.yy",},
     {"name":"Functions","order":10,"path":"scripts/Functions/Functions.yy",},
+    {"name":"Sound1","order":12,"path":"sounds/Sound1/Sound1.yy",},
     {"name":"BackButtonSprite","order":3,"path":"sprites/BackButtonSprite/BackButtonSprite.yy",},
     {"name":"FingerCursor","order":5,"path":"sprites/FingerCursor/FingerCursor.yy",},
     {"name":"NextButtonSprite","order":2,"path":"sprites/NextButtonSprite/NextButtonSprite.yy",},

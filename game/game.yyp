@@ -43,6 +43,7 @@
     {"id":{"name":"main_menu","path":"rooms/main_menu/main_menu.yy",},},
     {"id":{"name":"success_screen","path":"rooms/success_screen/success_screen.yy",},},
     {"id":{"name":"Functions","path":"scripts/Functions/Functions.yy",},},
+    {"id":{"name":"Sound1","path":"sounds/Sound1/Sound1.yy",},},
     {"id":{"name":"BackButtonSprite","path":"sprites/BackButtonSprite/BackButtonSprite.yy",},},
     {"id":{"name":"FingerCursor","path":"sprites/FingerCursor/FingerCursor.yy",},},
     {"id":{"name":"FingerSprite","path":"sprites/FingerSprite/FingerSprite.yy",},},
