@@ -17,3 +17,6 @@ wobble_decay = 0.99;
 
 //This is the angle of the wobble
 wobble_angle = 0;
+
+//This hides the cursor
+window_set_cursor(cr_none);
