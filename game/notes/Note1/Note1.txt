@@ -1,0 +1,15 @@
+//This will be a list of all the coordiantes of the the current PhoneKeyboard sprite
+//The cooridnates listed will be the top left and bottom right
+//These are not perfect, I hovered my mouse over to the corner and grabbed the coords
+A. (875, 1081)   (931,1158)
+B. (1224, 1173)  (1273, 1254)
+C. 1087, 1185)   1135, 1257
+D. 1013, 1069    1063, 1152
+E. 972, 959     1063,1145
+F. 1084, 1069    1133, 1148
+G. 1148, 1063    1201, 1147
+H. 1217, 1060   1270, 1145
+I. 1311, 946    1367, 1025
+J. 1285, 1058   1336, 1137
+K. 1350, 1058   1401, 1140
+L. 

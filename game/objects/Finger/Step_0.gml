@@ -1,27 +1,32 @@
-x = mouse_x;
-y = mouse_y;
+//local variable to calculate where the cursor is moving towards
+var wobble_destination_x = 0;
+var wobble_destination_y = 0;
 
-// the wobble cooldown is active so count it down
-if (wobble_cooldown > 0)
+//wobble strength has to be more than .1
+//This can't be zero because of the new approach I took, using a decay function
+if (wobble_strength > 0.1)
 {
-	wobble_cooldown--;
+    // Advance the wobble cycle
+    wobble_angle += wobble_speed;
+
+    // Follow the mouse while wobbling
+    wobble_destination_x = sin(wobble_angle) * wobble_strength * 0.5;
+    wobble_destination_y = cos(wobble_angle * 0.4) * wobble_strength * 0.2;
+
+    // Slowly decrease the wobble
+    wobble_strength *= wobble_decay;
 }
-// the wobble has cooled down so reset the wobble strength
 else
 {
-	wobble_strength_x = wobble_strength_x_init;
-	wobble_strength_y = wobble_strength_y_init;
-}
+    //This is just a placeholder, might not be neccessary. 
+    wobble_strength = 0;
 
-// counts down the wobble_time and applies the wobble
-if (wobble_time > 0)
-{
-	wobble_time--;
-	
-	var progress = 1 - (wobble_time / wobble_full_duration);
-	var decay = power(wobble_time / wobble_full_duration, 1.5);
-	
-	x += sin(progress * 12) * wobble_strength_x * decay;
-	y += cos(progress * 5) * wobble_strength_y * decay;
+   
 }
+//The smoothing magic
+wobble_offset_x = lerp(wobble_offset_x, wobble_destination_x, wobble_smoothness);
+wobble_offset_y = lerp(wobble_offset_y, wobble_destination_y, wobble_smoothness);
 
+ // Follow the mouse
+    x = mouse_x + wobble_offset_x;
+    y = mouse_y + wobble_offset_y; 

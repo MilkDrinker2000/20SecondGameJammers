@@ -1,18 +1,27 @@
-// step ticks every frame (60fps)
+//// Wobble settings
 
-wobble_full_duration = 60; // constant; how long a full wobble lasts for (currently set for 3 seconds)
-wobble_time = 0; // remaining time for the current wobble  (essentially the countdown variable)
+//This is the actual strength of the wobble
+wobble_strength = 0;
 
-wobble_strength_x_init = 10; // constant; baseline value for wobble strength in the x-axis
-wobble_strength_y_init = 10; // constant; baseline value for wobble strength in the y-axis
-wobble_strength_x = wobble_strength_x_init; // how much the cursor deviates in the x-axis
-wobble_strength_y = wobble_strength_y_init; // how much the cursor deviates in the y-axis
+//This is how much is added to the wobble, CONSTANT
+wobble_boost = 160;
 
+//This is the maximum allowed wobble, CONSTANT
+wobble_max = 500;
 
-wobble_cooldown_duration = 60; // constant; how long until the wobble strength resets to baseline
-wobble_cooldown = 0; // remaining time until the wobble strength resets to baseline
+//This is effects the angle of the wobble, CONSTANT
+wobble_speed = 0.05;
 
+//This effects how quickly the wobble decays, CONSTANT
+wobble_decay = 0.995;
 
+//This is the angle of the wobble
+wobble_angle = 0;
 
-// This hides the cursor
+//New variables for smoothing out the wobble
+wobble_offset_x = 0;
+wobble_offset_y = 0;
+wobble_smoothness = 0.05; //closer to zero equals slower smoothing out
+
+//This hides the cursor
 window_set_cursor(cr_none);
