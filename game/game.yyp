@@ -20,7 +20,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.14.4.222",
+    "IDEVersion":"2026.0.0.16",
   },
   "name":"game",
   "resources":[
@@ -45,6 +45,7 @@
     {"id":{"name":"Functions","path":"scripts/Functions/Functions.yy",},},
     {"id":{"name":"Sound1","path":"sounds/Sound1/Sound1.yy",},},
     {"id":{"name":"BackButtonSprite","path":"sprites/BackButtonSprite/BackButtonSprite.yy",},},
+    {"id":{"name":"ContactMenu","path":"sprites/ContactMenu/ContactMenu.yy",},},
     {"id":{"name":"FingerCursor","path":"sprites/FingerCursor/FingerCursor.yy",},},
     {"id":{"name":"FingerSprite","path":"sprites/FingerSprite/FingerSprite.yy",},},
     {"id":{"name":"NextButtonSprite","path":"sprites/NextButtonSprite/NextButtonSprite.yy",},},
