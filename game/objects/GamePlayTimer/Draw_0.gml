@@ -1,0 +1,1 @@
+draw_text_transformed_colour(string_draw_start_x, string_draw_start_y, timer[time_selected], 1, 1, 2.5, c_red, c_red, c_red, c_red, 1)
