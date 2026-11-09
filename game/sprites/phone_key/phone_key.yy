@@ -2,9 +2,9 @@
   "$GMSprite":"v2",
   "%Name":"phone_key",
   "bboxMode":0,
-  "bbox_bottom":29,
+  "bbox_bottom":44,
   "bbox_left":0,
-  "bbox_right":17,
+  "bbox_right":26,
   "bbox_top":0,
   "collisionKind":5,
   "collisionTolerance":0,
@@ -16,7 +16,7 @@
   ],
   "gridX":0,
   "gridY":0,
-  "height":35,
+  "height":45,
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"750d29a1-9112-45ee-b52d-51a27dcb94d6","blendMode":0,"displayName":"default","isLocked":false,"name":"750d29a1-9112-45ee-b52d-51a27dcb94d6","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
@@ -32,7 +32,7 @@
     "left":0,
     "resourceType":"GMNineSliceData",
     "resourceVersion":"2.0",
-    "right":6,
+    "right":8,
     "tileMode":[
       0,
       0,
@@ -105,5 +105,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":35,
+  "width":45,
 }
