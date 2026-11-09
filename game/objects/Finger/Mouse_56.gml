@@ -1,5 +1,6 @@
 ////Note: This has to be Global Left Click/Released.
 ////A normal click event might not work because the object moves around
+//draw_self();
 
 
 

@@ -19,6 +19,8 @@
     {"name":"NextButton","order":2,"path":"objects/NextButton/NextButton.yy",},
     {"name":"PhoneKeyboardMK1","order":2,"path":"objects/PhoneKeyboardMK1/PhoneKeyboardMK1.yy",},
     {"name":"RestartButton","order":3,"path":"objects/RestartButton/RestartButton.yy",},
+    {"name":"send","order":13,"path":"objects/send/send.yy",},
+    {"name":"testcursor","order":12,"path":"objects/testcursor/testcursor.yy",},
     {"name":"textbox","order":5,"path":"objects/textbox/textbox.yy",},
     {"name":"game_over","order":3,"path":"rooms/game_over/game_over.yy",},
     {"name":"intro_cutscene","order":1,"path":"rooms/intro_cutscene/intro_cutscene.yy",},

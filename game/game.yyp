@@ -39,6 +39,8 @@
     {"id":{"name":"PhoneKeyboardMK1","path":"objects/PhoneKeyboardMK1/PhoneKeyboardMK1.yy",},},
     {"id":{"name":"PlayButton","path":"objects/PlayButton/PlayButton.yy",},},
     {"id":{"name":"RestartButton","path":"objects/RestartButton/RestartButton.yy",},},
+    {"id":{"name":"send","path":"objects/send/send.yy",},},
+    {"id":{"name":"testcursor","path":"objects/testcursor/testcursor.yy",},},
     {"id":{"name":"textbox","path":"objects/textbox/textbox.yy",},},
     {"id":{"name":"game_over","path":"rooms/game_over/game_over.yy",},},
     {"id":{"name":"game_play","path":"rooms/game_play/game_play.yy",},},

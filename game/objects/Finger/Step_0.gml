@@ -19,7 +19,7 @@ if (wobble_strength > 0.1)
 else
 {
     //This is just a placeholder, might not be neccessary. 
-    wobble_strength = 0;
+   // wobble_strength = 0;
 
    
 }
@@ -30,3 +30,5 @@ wobble_offset_y = lerp(wobble_offset_y, wobble_destination_y, wobble_smoothness)
  // Follow the mouse
     x = mouse_x + wobble_offset_x;
     y = mouse_y + wobble_offset_y;
+	
+	
