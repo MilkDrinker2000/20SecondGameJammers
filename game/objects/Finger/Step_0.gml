@@ -29,4 +29,4 @@ wobble_offset_y = lerp(wobble_offset_y, wobble_destination_y, wobble_smoothness)
 
  // Follow the mouse
     x = mouse_x + wobble_offset_x;
-    y = mouse_y + wobble_offset_y; 
+    y = mouse_y + wobble_offset_y;
