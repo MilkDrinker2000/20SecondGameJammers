@@ -13,7 +13,7 @@ wobble_max = 350;
 wobble_speed = 0.05;
 
 //This effects how quickly the wobble decays, CONSTANT
-wobble_decay = 0.99;
+wobble_decay = 0.95;
 
 //This is the angle of the wobble
 wobble_angle = 0;
