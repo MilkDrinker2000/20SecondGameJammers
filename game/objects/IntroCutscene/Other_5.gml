@@ -1,0 +1,1 @@
+clean_up_auto_advance_next_room()
