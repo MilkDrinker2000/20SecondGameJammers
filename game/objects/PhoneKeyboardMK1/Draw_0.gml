@@ -1,5 +1,10 @@
 draw_self();
 
+//set the font
 draw_set_font(testFont);
 
-draw_text_transformed_colour(x+280, y+287, current_text, 1, 1, 2, c_green, c_green, c_green, c_green, 1);
+//draws the text
+draw_text_transformed_colour(x+380, y+407, current_text, 1, 1, 2, c_green, c_green, c_green, c_green, 1);
+
+//grayed out test that the player needs to write
+draw_text_transformed_colour(x+380, y+407, final_message, 1, 1, 2, c_grey, c_grey, c_grey, c_grey, 0.3);
