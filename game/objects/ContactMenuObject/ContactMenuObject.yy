@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"GameTimeLimiter",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"ContactMenuObject",
+  "eventList":[],
   "managed":true,
-  "name":"GameTimeLimiter",
+  "name":"ContactMenuObject",
   "overriddenProperties":[],
   "parent":{
     "name":"objects",
@@ -29,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"ContactMenu",
+    "path":"sprites/ContactMenu/ContactMenu.yy",
+  },
   "spriteMaskId":null,
-  "visible":false,
+  "visible":true,
 }

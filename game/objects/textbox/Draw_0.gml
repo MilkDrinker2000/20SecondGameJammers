@@ -1,1 +1,1 @@
-draw_text_transformed_colour (450, 650, keyboard_string, 3, 3, 0, c_red, c_red, c_red, c_red, 1);
+draw_text_transformed_colour (520, 440, keyboard_string, 1, 1, 2.5, c_red, c_red, c_red, c_red, 1);
