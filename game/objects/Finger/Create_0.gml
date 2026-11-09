@@ -4,16 +4,16 @@
 wobble_strength = 0;
 
 //This is how much is added to the wobble, CONSTANT
-wobble_boost = 160;
+wobble_boost = 100;
 
 //This is the maximum allowed wobble, CONSTANT
-wobble_max = 500;
+wobble_max = 350;
 
 //This is effects the angle of the wobble, CONSTANT
 wobble_speed = 0.05;
 
 //This effects how quickly the wobble decays, CONSTANT
-wobble_decay = 0.995;
+wobble_decay = 0.99;
 
 //This is the angle of the wobble
 wobble_angle = 0;
