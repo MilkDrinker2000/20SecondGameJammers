@@ -26,6 +26,8 @@
     {"name":"Functions","order":10,"path":"scripts/Functions/Functions.yy",},
     {"name":"Sound1","order":12,"path":"sounds/Sound1/Sound1.yy",},
     {"name":"BackButtonSprite","order":4,"path":"sprites/BackButtonSprite/BackButtonSprite.yy",},
+    {"name":"Background","order":11,"path":"sprites/Background/Background.yy",},
+    {"name":"BackgroundDarkened","order":12,"path":"sprites/BackgroundDarkened/BackgroundDarkened.yy",},
     {"name":"ContactMenu","order":10,"path":"sprites/ContactMenu/ContactMenu.yy",},
     {"name":"FingerCursor","order":7,"path":"sprites/FingerCursor/FingerCursor.yy",},
     {"name":"FingerSprite","order":1,"path":"sprites/FingerSprite/FingerSprite.yy",},
@@ -35,5 +37,6 @@
     {"name":"PlayButtonSprite","order":2,"path":"sprites/PlayButtonSprite/PlayButtonSprite.yy",},
     {"name":"RestartButtonSprite","order":5,"path":"sprites/RestartButtonSprite/RestartButtonSprite.yy",},
     {"name":"Sprite5","order":8,"path":"sprites/Sprite5/Sprite5.yy",},
+    {"name":"TitleLogo","order":13,"path":"sprites/TitleLogo/TitleLogo.yy",},
   ],
 }
