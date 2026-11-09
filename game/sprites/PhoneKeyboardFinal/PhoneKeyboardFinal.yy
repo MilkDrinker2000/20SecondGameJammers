@@ -2,9 +2,9 @@
   "$GMSprite":"v2",
   "%Name":"PhoneKeyboardFinal",
   "bboxMode":0,
-  "bbox_bottom":858,
-  "bbox_left":233,
-  "bbox_right":898,
+  "bbox_bottom":793,
+  "bbox_left":215,
+  "bbox_right":830,
   "bbox_top":1,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -16,7 +16,7 @@
   ],
   "gridX":0,
   "gridY":0,
-  "height":859,
+  "height":794,
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"1a065828-88f2-4b03-a3d4-1d006c70280e","blendMode":0,"displayName":"default","isLocked":false,"name":"1a065828-88f2-4b03-a3d4-1d006c70280e","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":900,
+  "width":832,
 }
