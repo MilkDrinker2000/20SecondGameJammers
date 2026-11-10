@@ -38,5 +38,5 @@
     "path":"sprites/phone_key/phone_key.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }
