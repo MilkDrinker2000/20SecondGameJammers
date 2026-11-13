@@ -6,6 +6,7 @@
     {"name":"sprites","order":4,"path":"folders/sprites.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"AtkinsonHyperlegible","order":13,"path":"fonts/AtkinsonHyperlegible/AtkinsonHyperlegible.yy",},
     {"name":"testFont","order":7,"path":"fonts/testFont/testFont.yy",},
     {"name":"Note1","order":11,"path":"notes/Note1/Note1.yy",},
     {"name":"BackButton","order":1,"path":"objects/BackButton/BackButton.yy",},
@@ -37,6 +38,7 @@
     {"name":"NextButtonSprite","order":3,"path":"sprites/NextButtonSprite/NextButtonSprite.yy",},
     {"name":"phone_key","order":9,"path":"sprites/phone_key/phone_key.yy",},
     {"name":"PhoneKeyboard","order":6,"path":"sprites/PhoneKeyboard/PhoneKeyboard.yy",},
+    {"name":"PhoneKeyboardWithTimer","order":15,"path":"sprites/PhoneKeyboardWithTimer/PhoneKeyboardWithTimer.yy",},
     {"name":"PlayButtonSprite","order":2,"path":"sprites/PlayButtonSprite/PlayButtonSprite.yy",},
     {"name":"RestartButtonSprite","order":5,"path":"sprites/RestartButtonSprite/RestartButtonSprite.yy",},
     {"name":"spacebarsprite","order":14,"path":"sprites/spacebarsprite/spacebarsprite.yy",},
