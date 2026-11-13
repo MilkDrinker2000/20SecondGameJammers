@@ -34,5 +34,5 @@
     "path":"sprites/spacebarsprite/spacebarsprite.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }
