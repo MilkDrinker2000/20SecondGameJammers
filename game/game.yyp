@@ -25,6 +25,7 @@
   },
   "name":"game",
   "resources":[
+    {"id":{"name":"endFont","path":"fonts/endFont/endFont.yy",},},
     {"id":{"name":"testFont","path":"fonts/testFont/testFont.yy",},},
     {"id":{"name":"Note1","path":"notes/Note1/Note1.yy",},},
     {"id":{"name":"autoAdvanceGameplay","path":"objects/autoAdvanceGameplay/autoAdvanceGameplay.yy",},},
@@ -44,6 +45,7 @@
     {"id":{"name":"RestartButton","path":"objects/RestartButton/RestartButton.yy",},},
     {"id":{"name":"send","path":"objects/send/send.yy",},},
     {"id":{"name":"spaceBar","path":"objects/spaceBar/spaceBar.yy",},},
+    {"id":{"name":"successText","path":"objects/successText/successText.yy",},},
     {"id":{"name":"testcursor","path":"objects/testcursor/testcursor.yy",},},
     {"id":{"name":"textbox","path":"objects/textbox/textbox.yy",},},
     {"id":{"name":"game_over","path":"rooms/game_over/game_over.yy",},},

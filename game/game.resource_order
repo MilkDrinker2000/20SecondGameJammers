@@ -7,6 +7,7 @@
     {"name":"sprites","order":4,"path":"folders/sprites.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"endFont","order":16,"path":"fonts/endFont/endFont.yy",},
     {"name":"testFont","order":7,"path":"fonts/testFont/testFont.yy",},
     {"name":"Note1","order":11,"path":"notes/Note1/Note1.yy",},
     {"name":"BackButton","order":1,"path":"objects/BackButton/BackButton.yy",},
@@ -24,6 +25,7 @@
     {"name":"RestartButton","order":3,"path":"objects/RestartButton/RestartButton.yy",},
     {"name":"send","order":13,"path":"objects/send/send.yy",},
     {"name":"spaceBar","order":14,"path":"objects/spaceBar/spaceBar.yy",},
+    {"name":"successText","order":17,"path":"objects/successText/successText.yy",},
     {"name":"testcursor","order":12,"path":"objects/testcursor/testcursor.yy",},
     {"name":"textbox","order":5,"path":"objects/textbox/textbox.yy",},
     {"name":"game_over","order":3,"path":"rooms/game_over/game_over.yy",},
