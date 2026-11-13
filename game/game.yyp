@@ -20,10 +20,11 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.14.4.222",
+    "IDEVersion":"2026.0.0.16",
   },
   "name":"game",
   "resources":[
+    {"id":{"name":"AtkinsonHyperlegible","path":"fonts/AtkinsonHyperlegible/AtkinsonHyperlegible.yy",},},
     {"id":{"name":"testFont","path":"fonts/testFont/testFont.yy",},},
     {"id":{"name":"Note1","path":"notes/Note1/Note1.yy",},},
     {"id":{"name":"autoAdvanceGameplay","path":"objects/autoAdvanceGameplay/autoAdvanceGameplay.yy",},},
@@ -60,6 +61,7 @@
     {"id":{"name":"phone_key","path":"sprites/phone_key/phone_key.yy",},},
     {"id":{"name":"PhoneKeyboard","path":"sprites/PhoneKeyboard/PhoneKeyboard.yy",},},
     {"id":{"name":"PhoneKeyboardFinal","path":"sprites/PhoneKeyboardFinal/PhoneKeyboardFinal.yy",},},
+    {"id":{"name":"PhoneKeyboardWithTimer","path":"sprites/PhoneKeyboardWithTimer/PhoneKeyboardWithTimer.yy",},},
     {"id":{"name":"PlayButtonSprite","path":"sprites/PlayButtonSprite/PlayButtonSprite.yy",},},
     {"id":{"name":"RestartButtonSprite","path":"sprites/RestartButtonSprite/RestartButtonSprite.yy",},},
     {"id":{"name":"spacebarsprite","path":"sprites/spacebarsprite/spacebarsprite.yy",},},
