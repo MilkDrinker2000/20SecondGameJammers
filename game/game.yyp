@@ -40,6 +40,7 @@
     {"id":{"name":"keyTest","path":"objects/keyTest/keyTest.yy",},},
     {"id":{"name":"musicManager","path":"objects/musicManager/musicManager.yy",},},
     {"id":{"name":"NextButton","path":"objects/NextButton/NextButton.yy",},},
+    {"id":{"name":"Object21","path":"objects/Object21/Object21.yy",},},
     {"id":{"name":"PhoneKeyboardMK1","path":"objects/PhoneKeyboardMK1/PhoneKeyboardMK1.yy",},},
     {"id":{"name":"PlayButton","path":"objects/PlayButton/PlayButton.yy",},},
     {"id":{"name":"RestartButton","path":"objects/RestartButton/RestartButton.yy",},},
