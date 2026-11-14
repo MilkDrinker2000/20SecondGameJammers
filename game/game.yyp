@@ -10,10 +10,10 @@
   },
   "defaultScriptType":1,
   "Folders":[
-    {"$GMFolder":"","%Name":"sounds","folderPath":"folders/sounds.yy","name":"sounds","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"objects","folderPath":"folders/objects.yy","name":"objects","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"buttons","folderPath":"folders/objects/buttons.yy","name":"buttons","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"rooms","folderPath":"folders/rooms.yy","name":"rooms","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"sounds","folderPath":"folders/sounds.yy","name":"sounds","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"sprites","folderPath":"folders/sprites.yy","name":"sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
   "ForcedPrefabProjectReferences":[],
@@ -21,7 +21,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.14.4.222",
+    "IDEVersion":"2026.0.0.16",
   },
   "name":"game",
   "resources":[
@@ -64,6 +64,7 @@
     {"id":{"name":"Background","path":"sprites/Background/Background.yy",},},
     {"id":{"name":"BackgroundDarkened","path":"sprites/BackgroundDarkened/BackgroundDarkened.yy",},},
     {"id":{"name":"ContactMenu","path":"sprites/ContactMenu/ContactMenu.yy",},},
+    {"id":{"name":"Doctor","path":"sprites/Doctor/Doctor.yy",},},
     {"id":{"name":"FingerCursor","path":"sprites/FingerCursor/FingerCursor.yy",},},
     {"id":{"name":"FingerSprite","path":"sprites/FingerSprite/FingerSprite.yy",},},
     {"id":{"name":"NextButtonSprite","path":"sprites/NextButtonSprite/NextButtonSprite.yy",},},
