@@ -1,9 +1,9 @@
 {
   "FolderOrderSettings":[
-    {"name":"sounds","order":15,"path":"folders/sounds.yy",},
     {"name":"objects","order":9,"path":"folders/objects.yy",},
     {"name":"buttons","order":1,"path":"folders/objects/buttons.yy",},
     {"name":"rooms","order":2,"path":"folders/rooms.yy",},
+    {"name":"sounds","order":15,"path":"folders/sounds.yy",},
     {"name":"sprites","order":4,"path":"folders/sprites.yy",},
   ],
   "ResourceOrderSettings":[
@@ -41,6 +41,7 @@
     {"name":"Background","order":11,"path":"sprites/Background/Background.yy",},
     {"name":"BackgroundDarkened","order":12,"path":"sprites/BackgroundDarkened/BackgroundDarkened.yy",},
     {"name":"ContactMenu","order":10,"path":"sprites/ContactMenu/ContactMenu.yy",},
+    {"name":"Doctor","order":15,"path":"sprites/Doctor/Doctor.yy",},
     {"name":"FingerCursor","order":7,"path":"sprites/FingerCursor/FingerCursor.yy",},
     {"name":"FingerSprite","order":1,"path":"sprites/FingerSprite/FingerSprite.yy",},
     {"name":"NextButtonSprite","order":3,"path":"sprites/NextButtonSprite/NextButtonSprite.yy",},
