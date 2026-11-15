@@ -1,2 +1,3 @@
 // go to the next room automatically after 20 seconds, ending the gameplay
-auto_advance_next_room(20)
+//auto_advance_next_room(20)
+game_timer = 0;

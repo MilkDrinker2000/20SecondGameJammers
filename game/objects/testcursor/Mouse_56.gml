@@ -9,3 +9,5 @@ wobble_strength += wobble_boost;
 
 // Prevent the wobble from becoming too strong
 wobble_strength = min(wobble_strength, wobble_max);
+
+audio_play_sound(wrongsound,1,false,.25,0,1,1);
