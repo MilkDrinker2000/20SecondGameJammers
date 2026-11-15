@@ -9,3 +9,6 @@ wobble_strength += wobble_boost;
 
 // Prevent the wobble from becoming too strong
 wobble_strength = min(wobble_strength, wobble_max);
+
+// create a ripple
+instance_create_layer(x, y, "Instances", cursorClickRipple)
