@@ -3,7 +3,7 @@ draw_self();
 //set the font
 draw_set_font(testFont);
 
-draw_text_transformed_colour(x+380, y+100,contactsButton.contacted,1,1,2,c_black,c_black,c_black,c_black,1);
+draw_text_transformed_colour(x+380, y+100,global.contacted,1,1,2,c_black,c_black,c_black,c_black,1);
 
 //draws the text
 draw_text_transformed_colour(x+384, y+408, current_text, 1, 1, 2, c_black, c_black, c_black, c_black, 1);

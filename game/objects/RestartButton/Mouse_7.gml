@@ -1,4 +1,4 @@
-if (room_exists(room_first))
+if (room_exists(intro_cutscene))
 {
-    room_goto(room_first)
+    room_goto(intro_cutscene)
 }
