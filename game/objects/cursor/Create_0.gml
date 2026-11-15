@@ -25,3 +25,6 @@ wobble_smoothness = 0.05; //closer to zero equals slower smoothing out
 
 //This hides the cursor
 window_set_cursor(cr_none);
+
+//
+depth = -100
