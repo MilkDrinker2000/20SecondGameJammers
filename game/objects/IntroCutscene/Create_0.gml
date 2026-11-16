@@ -10,8 +10,8 @@ time_timer = time_change * 60; // 60 = fps
 intro_cutscene_length = time_change * array_length(strings);
 
 // where the text is drawn on the screen
-string_draw_start_x = 265;
-string_draw_start_y = 550;
+string_draw_start_x = 330;
+string_draw_start_y = 220;
 
 // automatically advance from the custcene to the main menu after the cutscene is over
 auto_advance_next_room(intro_cutscene_length)
